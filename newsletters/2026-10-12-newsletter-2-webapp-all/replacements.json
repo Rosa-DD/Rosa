@@ -1,16 +1,16 @@
 {
   "_comment": "Every token below appears verbatim in campaign-de.html / campaign-en.html. Fill every value except font (optional, see README). The script refuses to run while a required value is empty, and also refuses while the [Preis oder Angebot] / [price or offer] placeholder is still in the copy.",
   "shared": {
-    "https://REPLACE-WITH-BREVO-MEDIA-URL/sbd-e4-fourth-trimester.jpg": "",
-    "https://REPLACE-WITH-UPGRADE-DEEP-LINK": ""
+    "https://REPLACE-WITH-BREVO-MEDIA-URL/sbd-e4-fourth-trimester.jpg": "https://eu.posthog.com/uploaded_media/01a1312b-8444-0000-d2ee-d5949eca5c48",
+    "https://REPLACE-WITH-UPGRADE-DEEP-LINK": "https://app.familymind.ai/settings?utm_source=newsletter&amp;utm_medium=email&amp;utm_campaign=webapp-all&amp;utm_content=premium"
   },
   "de": {
-    "https://REPLACE-WITH-BREVO-MEDIA-URL/webapp-skills-de.png": "",
-    "https://REPLACE-WITH-BREVO-MEDIA-URL/webapp-start-de.jpg": ""
+    "https://REPLACE-WITH-BREVO-MEDIA-URL/webapp-skills-de.png": "https://eu.posthog.com/uploaded_media/01a13129-a411-0000-6d19-1bf090281611",
+    "https://REPLACE-WITH-BREVO-MEDIA-URL/webapp-start-de.jpg": "https://eu.posthog.com/uploaded_media/01a1312b-7d81-0000-adc5-445f831f65ee"
   },
   "en": {
-    "https://REPLACE-WITH-BREVO-MEDIA-URL/webapp-skills.png": "",
-    "https://REPLACE-WITH-BREVO-MEDIA-URL/webapp-start-en.jpg": ""
+    "https://REPLACE-WITH-BREVO-MEDIA-URL/webapp-skills.png": "https://eu.posthog.com/uploaded_media/01a1312b-7a93-0000-167c-629bf1bf0d45",
+    "https://REPLACE-WITH-BREVO-MEDIA-URL/webapp-start-en.jpg": "https://eu.posthog.com/uploaded_media/01a1312b-80a3-0000-ef71-38e5a12fa332"
   },
   "copy": {
     "de": {
@@ -57,7 +57,15 @@
   },
   "sender": {
     "name": "Rosa von familymind",
-    "email": "",
+    "email": "rdd@familymind.ai",
     "replyTo": "rdd@familymind.ai"
+  },
+  "_pushed": {
+    "date": "2026-10-12",
+    "brevoCampaignIds": {
+      "de": 175,
+      "en": 176
+    },
+    "note": "Created as unscheduled drafts via the Brevo connector. Price/offer line left as the highlighted placeholder for Rosa to fill in Brevo; @font-face block removed (no public woff2)."
   }
 }
