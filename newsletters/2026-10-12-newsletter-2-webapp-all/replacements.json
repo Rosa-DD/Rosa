@@ -1,0 +1,63 @@
+{
+  "_comment": "Every token below appears verbatim in campaign-de.html / campaign-en.html. Fill every value except font (optional, see README). The script refuses to run while a required value is empty, and also refuses while the [Preis oder Angebot] / [price or offer] placeholder is still in the copy.",
+  "shared": {
+    "https://REPLACE-WITH-BREVO-MEDIA-URL/sbd-e4-fourth-trimester.jpg": "",
+    "https://REPLACE-WITH-UPGRADE-DEEP-LINK": ""
+  },
+  "de": {
+    "https://REPLACE-WITH-BREVO-MEDIA-URL/webapp-skills-de.png": "",
+    "https://REPLACE-WITH-BREVO-MEDIA-URL/webapp-start-de.jpg": ""
+  },
+  "en": {
+    "https://REPLACE-WITH-BREVO-MEDIA-URL/webapp-skills.png": "",
+    "https://REPLACE-WITH-BREVO-MEDIA-URL/webapp-start-en.jpg": ""
+  },
+  "copy": {
+    "de": {
+      "<span style=\"background-color:#DFFD6E; color:#1A140F; font-weight:bold; padding:0 4px;\">[Preis oder Angebot]</span>": ""
+    },
+    "en": {
+      "<span style=\"background-color:#DFFD6E; color:#1A140F; font-weight:bold; padding:0 4px;\">[price or offer]</span>": ""
+    }
+  },
+  "font": {
+    "https://REPLACE-WITH-YOUR-FONT-URL/CooperBT-Light.woff2": "",
+    "https://REPLACE-WITH-YOUR-FONT-URL/CooperBT-Light.ttf": ""
+  },
+  "campaign": {
+    "de": {
+      "name": "Newsletter 2 DE: Web-App für alle",
+      "subject": "Macht heute Abend mal den Laptop auf 👀",
+      "previewText": "familymind läuft jetzt im Browser, und der Startbildschirm feiert jeden geschafften Tag mit euch.",
+      "listIds": [
+        29,
+        7
+      ],
+      "exclusionListIds": [
+        36,
+        14
+      ],
+      "scheduledAt": ""
+    },
+    "en": {
+      "name": "Newsletter 2 EN: web app for everyone",
+      "subject": "Open your laptop tonight 👀",
+      "previewText": "familymind now runs in your browser, and its home screen celebrates every finished day with you.",
+      "listIds": [
+        30,
+        8,
+        15
+      ],
+      "exclusionListIds": [
+        35,
+        14
+      ],
+      "scheduledAt": ""
+    }
+  },
+  "sender": {
+    "name": "Rosa von familymind",
+    "email": "",
+    "replyTo": "rdd@familymind.ai"
+  }
+}
