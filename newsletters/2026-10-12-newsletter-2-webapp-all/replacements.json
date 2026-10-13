@@ -71,7 +71,7 @@
       "date": "2026-10-13",
       "brevoCampaignIds": {
         "de": 177,
-        "en": "see chat"
+        "en": 178
       },
       "changes": "body text +2px, subject/H1 day context, price placeholder removed; v1 drafts 175/176 superseded"
     }
