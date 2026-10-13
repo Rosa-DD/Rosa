@@ -14,10 +14,10 @@
   },
   "copy": {
     "de": {
-      "<span style=\"background-color:#DFFD6E; color:#1A140F; font-weight:bold; padding:0 4px;\">[Preis oder Angebot]</span>": ""
+      "<span style=\"background-color:#DFFD6E; color:#1A140F; font-weight:bold; padding:0 4px;\">[Preis oder Angebot]</span>": " "
     },
     "en": {
-      "<span style=\"background-color:#DFFD6E; color:#1A140F; font-weight:bold; padding:0 4px;\">[price or offer]</span>": ""
+      "<span style=\"background-color:#DFFD6E; color:#1A140F; font-weight:bold; padding:0 4px;\">[price or offer]</span>": " "
     }
   },
   "font": {
@@ -27,7 +27,7 @@
   "campaign": {
     "de": {
       "name": "Newsletter 2 DE: Web-App für alle",
-      "subject": "Macht heute Abend mal den Laptop auf 👀",
+      "subject": "Macht heute mal den Laptop auf 👀",
       "previewText": "familymind läuft jetzt im Browser, und der Startbildschirm feiert jeden geschafften Tag mit euch.",
       "listIds": [
         29,
@@ -41,7 +41,7 @@
     },
     "en": {
       "name": "Newsletter 2 EN: web app for everyone",
-      "subject": "Open your laptop tonight 👀",
+      "subject": "Open your laptop today 👀",
       "previewText": "familymind now runs in your browser, and its home screen celebrates every finished day with you.",
       "listIds": [
         30,
@@ -66,6 +66,14 @@
       "de": 175,
       "en": 176
     },
-    "note": "Created as unscheduled drafts via the Brevo connector. Price/offer line left as the highlighted placeholder for Rosa to fill in Brevo; @font-face block removed (no public woff2)."
+    "note": "Created as unscheduled drafts via the Brevo connector. Price/offer line left as the highlighted placeholder for Rosa to fill in Brevo; @font-face block removed (no public woff2).",
+    "v2": {
+      "date": "2026-10-13",
+      "brevoCampaignIds": {
+        "de": 177,
+        "en": "see chat"
+      },
+      "changes": "body text +2px, subject/H1 day context, price placeholder removed; v1 drafts 175/176 superseded"
+    }
   }
 }
