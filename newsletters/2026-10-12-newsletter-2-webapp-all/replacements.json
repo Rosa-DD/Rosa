@@ -74,6 +74,14 @@
         "en": 178
       },
       "changes": "body text +2px, subject/H1 day context, price placeholder removed; v1 drafts 175/176 superseded"
+    },
+    "v3": {
+      "date": "2026-10-13",
+      "brevoCampaignIds": {
+        "de": 179,
+        "en": 180
+      },
+      "changes": "all remaining 'heute Abend' / 'tonight' changed to 'heute' / 'today'; drafts 175-178 superseded"
     }
   }
 }
