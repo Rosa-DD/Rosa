@@ -21,6 +21,11 @@
   "_pushed": {
     "date": "2026-10-16",
     "brevoCampaignId": 181,
-    "note": "Created as unscheduled draft via the Brevo connector at 11:40 CEST; @font-face block removed; list 33 Open Cohort (11 contacts); not scheduled, Rosaria/Maha schedule 15:00 CEST after sign-off."
+    "note": "Created as unscheduled draft via the Brevo connector at 11:40 CEST; @font-face block removed; list 33 Open Cohort (11 contacts); not scheduled, Rosaria/Maha schedule 15:00 CEST after sign-off.",
+    "v2": {
+      "date": "2026-10-16",
+      "changes": "steps 3+4 merged into 3; Familienkompass link under step 4; new step 5 Mental Load Shift Score with link to mental-load-score; draft 181 superseded",
+      "brevoCampaignId": "see git log / chat"
+    }
   }
 }
