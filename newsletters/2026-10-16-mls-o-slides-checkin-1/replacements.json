@@ -22,6 +22,6 @@
   "_pushed": {
     "date": "2026-10-16",
     "note": "Draft created via the Brevo connector WITHOUT the PDF attachment (no public .pdf host reachable from the session). Attach the Check-In 1 PDF in Brevo campaign settings before sending. @font-face removed. Copy still needs Andrea's approval.",
-    "brevoCampaignId": "see git log / chat"
+    "brevoCampaignId": 183
   }
 }
