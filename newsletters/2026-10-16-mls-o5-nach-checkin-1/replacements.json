@@ -1,0 +1,26 @@
+{
+  "_comment": "The only token left in campaign-o5.html is the Cooper font URL. Fill both font values, or delete the @font-face block from the HTML and leave them empty.",
+  "font": {
+    "https://REPLACE-WITH-YOUR-FONT-URL/CooperBT-Light.woff2": "",
+    "https://REPLACE-WITH-YOUR-FONT-URL/CooperBT-Light.ttf": ""
+  },
+  "campaign": {
+    "name": "MLS Offene Kohorte O5: Nach Check-In 1 (Nordstern)",
+    "subject": "Danke für heute! So geht es bis zum 30.10. weiter",
+    "previewText": "Deine nächsten Schritte für den ersten Family Sync auf einen Blick.",
+    "listIds": [
+      33
+    ],
+    "scheduledAt": "2026-10-16T15:00:00+02:00"
+  },
+  "sender": {
+    "name": "Andrea & Rosaria von familymind",
+    "email": "rdd@familymind.ai",
+    "replyTo": "rdd@familymind.ai"
+  },
+  "_pushed": {
+    "date": "2026-10-16",
+    "brevoCampaignId": 181,
+    "note": "Created as unscheduled draft via the Brevo connector at 11:40 CEST; @font-face block removed; list 33 Open Cohort (11 contacts); not scheduled, Rosaria/Maha schedule 15:00 CEST after sign-off."
+  }
+}
