@@ -1,0 +1,27 @@
+{
+  "_comment": "Fill attachmentUrl, listIds and sender.email. The only HTML token is the Cooper font URL: fill both font values, or delete the @font-face block from the HTML and leave them empty.",
+  "font": {
+    "https://REPLACE-WITH-YOUR-FONT-URL/CooperBT-Light.woff2": "",
+    "https://REPLACE-WITH-YOUR-FONT-URL/CooperBT-Light.ttf": ""
+  },
+  "attachmentUrl": "",
+  "campaign": {
+    "name": "MLS Offene Kohorte: Folien Check-In 1 (Nordstern)",
+    "subject": "Die Folien von Check-In 1 zum Nachlesen",
+    "previewText": "Alles aus unserem Nordstern-Workshop, damit du in Ruhe nachschauen kannst.",
+    "listIds": [
+      33
+    ],
+    "scheduledAt": ""
+  },
+  "sender": {
+    "name": "Andrea Böckle",
+    "email": "rdd@familymind.ai",
+    "replyTo": "rdd@familymind.ai"
+  },
+  "_pushed": {
+    "date": "2026-10-16",
+    "note": "Draft created via the Brevo connector WITHOUT the PDF attachment (no public .pdf host reachable from the session). Attach the Check-In 1 PDF in Brevo campaign settings before sending. @font-face removed. Copy still needs Andrea's approval.",
+    "brevoCampaignId": "see git log / chat"
+  }
+}
