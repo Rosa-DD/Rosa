@@ -1,0 +1,26 @@
+{
+  "_comment": "The only HTML token is the Cooper font URL. Fill both font values, or delete the @font-face block from the HTML and leave them empty.",
+  "font": {
+    "https://REPLACE-WITH-YOUR-FONT-URL/CooperBT-Light.woff2": "",
+    "https://REPLACE-WITH-YOUR-FONT-URL/CooperBT-Light.ttf": ""
+  },
+  "campaign": {
+    "name": "MLS Merz Pilot M2b: Erinnerung familymind aktivieren",
+    "subject": "Am Mittwoch geht's los: Ist familymind schon startklar?",
+    "previewText": "Drei Schritte zur Aktivierung und was dich in den vier Check-Ins erwartet.",
+    "listIds": [
+      34
+    ],
+    "scheduledAt": ""
+  },
+  "sender": {
+    "name": "Rosaria von familymind",
+    "email": "rdd@familymind.ai",
+    "replyTo": "rdd@familymind.ai"
+  },
+  "_pushed": {
+    "date": "2026-10-16",
+    "note": "Created as unscheduled draft via the Brevo connector; @font-face removed; list 34 Merz Cohort.",
+    "brevoCampaignId": "see git log / chat"
+  }
+}
