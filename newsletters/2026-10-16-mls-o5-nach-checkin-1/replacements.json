@@ -25,7 +25,7 @@
     "v2": {
       "date": "2026-10-16",
       "changes": "steps 3+4 merged into 3; Familienkompass link under step 4; new step 5 Mental Load Shift Score with link to mental-load-score; draft 181 superseded",
-      "brevoCampaignId": "see git log / chat"
+      "brevoCampaignId": 182
     }
   }
 }
