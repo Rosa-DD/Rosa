@@ -21,6 +21,11 @@
   "_pushed": {
     "date": "2026-10-16",
     "note": "Created as unscheduled draft via the Brevo connector; @font-face removed; list 34 Merz Cohort.",
-    "brevoCampaignId": 184
+    "brevoCampaignId": 184,
+    "v2": {
+      "date": "2026-10-18",
+      "changes": "Merz co-branded logo (260x50) before the hero; Check-In 1 time now 'voraussichtlich 12:00 bis 14:00'; new cream card asking for the Start-Fragebogen before Wednesday with button to forms.cloud.microsoft/e/GashZkJAvD; draft 184 superseded",
+      "brevoCampaignId": "see git log / chat"
+    }
   }
 }
