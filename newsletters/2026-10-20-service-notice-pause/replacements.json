@@ -36,8 +36,8 @@
     "date": "2026-10-20",
     "note": "Created as unscheduled drafts via the Brevo connector; @font-face removed; DE list 29, EN list 30, no exclusions. Lists 31/32 (not language-split) not included; campaign reaches only newsletter-subscribed contacts, transactional route not used.",
     "brevoCampaignIds": {
-      "de": "see git log / chat",
-      "en": "see git log / chat"
+      "de": 188,
+      "en": 189
     }
   }
 }
