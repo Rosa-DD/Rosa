@@ -1,0 +1,43 @@
+{
+  "_comment": "The only HTML token is the Cooper font URL. Fill both font values, or delete the @font-face block from both HTML files and leave them empty. Fill listIds and sender.email.",
+  "font": {
+    "https://REPLACE-WITH-YOUR-FONT-URL/CooperBT-Light.woff2": "",
+    "https://REPLACE-WITH-YOUR-FONT-URL/CooperBT-Light.ttf": ""
+  },
+  "campaign": {
+    "de": {
+      "name": "Service: familymind Pause DE",
+      "subject": "familymind macht eine kurze Pause 🌿 eine kleine Bitte",
+      "previewText": "Bitte bleib eingeloggt und lass die App installiert.",
+      "listIds": [
+        29
+      ],
+      "exclusionListIds": [],
+      "scheduledAt": ""
+    },
+    "en": {
+      "name": "Service: familymind pause EN",
+      "subject": "familymind is taking a short break 🌿 one small favor",
+      "previewText": "Please stay logged in and keep the app installed.",
+      "listIds": [
+        30
+      ],
+      "exclusionListIds": [],
+      "scheduledAt": ""
+    }
+  },
+  "sender": {
+    "name": "Rosa und Mousa von familymind",
+    "nameEn": "Rosa and Mousa from familymind",
+    "email": "rdd@familymind.ai",
+    "replyTo": "rdd@familymind.ai"
+  },
+  "_pushed": {
+    "date": "2026-10-20",
+    "note": "Created as unscheduled drafts via the Brevo connector; @font-face removed; DE list 29, EN list 30, no exclusions. Lists 31/32 (not language-split) not included; campaign reaches only newsletter-subscribed contacts, transactional route not used.",
+    "brevoCampaignIds": {
+      "de": "see git log / chat",
+      "en": "see git log / chat"
+    }
+  }
+}
