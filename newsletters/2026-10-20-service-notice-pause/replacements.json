@@ -34,7 +34,7 @@
   },
   "_pushed": {
     "date": "2026-10-20",
-    "note": "Created as unscheduled drafts via the Brevo connector; @font-face removed; DE list 29, EN list 30, no exclusions. Lists 31/32 (not language-split) not included; campaign reaches only newsletter-subscribed contacts, transactional route not used.",
+    "note": "Created as unscheduled drafts via the Brevo connector; @font-face removed; DE list 29, EN list 30, no exclusions. Lists 31/32 (not language-split) not included; campaign reaches only newsletter-subscribed contacts, transactional route not used. Observed 09:33 CEST: DE draft 188 recipients were changed in Brevo to lists 29 + 7 (ContactList_DE) + 36 (DE Paid); EN draft 189 still list 30 only.",
     "brevoCampaignIds": {
       "de": 188,
       "en": 189
