@@ -1,0 +1,54 @@
+{
+  "_comment": "The only HTML token in both files is the Cooper font URL. Fill both font values, or delete the @font-face block from both HTML files and leave them empty. Fill listIds per campaign and sender.email.",
+  "font": {
+    "https://REPLACE-WITH-YOUR-FONT-URL/CooperBT-Light.woff2": "",
+    "https://REPLACE-WITH-YOUR-FONT-URL/CooperBT-Light.ttf": ""
+  },
+  "campaigns": {
+    "o6": {
+      "file": "campaign-o6.html",
+      "name": "MLS Offene Kohorte O6: Family Sync #1 und Quiz",
+      "subject": "Habt ihr euren ersten Family Sync schon geplant?",
+      "previewText": "Drei Tipps für ein gutes Gespräch und zwei Minuten Vorbereitung für Check-In 2.",
+      "senderName": "Rosaria von familymind",
+      "listIds": [
+        33
+      ],
+      "scheduledAt": "",
+      "expectImgs": 2,
+      "mustInclude": [
+        "familymind.ai/mental-load-score/de",
+        "30. Oktober"
+      ]
+    },
+    "m5": {
+      "file": "campaign-m5.html",
+      "name": "MLS Merz Pilot M5: Nach Check-In 1 (Nordstern)",
+      "subject": "Danke für heute! So geht es bis zum 04.11. weiter",
+      "previewText": "Deine nächsten Schritte für den ersten Family Sync auf einen Blick.",
+      "senderName": "Andrea & Rosaria von familymind",
+      "listIds": [
+        34
+      ],
+      "scheduledAt": "2026-10-21T16:00:00+02:00",
+      "expectImgs": 1,
+      "mustInclude": [
+        "forms.cloud.microsoft/Pages/ResponsePage.aspx?id=0HES51fjqEG9fSFLc8snex38PNg_2j9KiOfholseWm1UOFcwTFhBNUZYREdLQkJTRlJDNU9IQzZLMC4u",
+        "4. November",
+        "Tag 120"
+      ]
+    }
+  },
+  "sender": {
+    "email": "rdd@familymind.ai",
+    "replyTo": "rdd@familymind.ai"
+  },
+  "_pushed": {
+    "date": "2026-10-21",
+    "note": "Built HTML: @font-face removed; M5 logo swapped to Merz co-branded 260x50 per MERZ-EMAIL-CONVENTIONS.md. O6 -> list 33 Open Cohort, M5 -> list 34 Merz Cohort. Drafts to be created unscheduled.",
+    "brevoCampaignIds": {
+      "o6": "pending",
+      "m5": "pending"
+    }
+  }
+}
