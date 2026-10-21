@@ -45,10 +45,10 @@
   },
   "_pushed": {
     "date": "2026-10-21",
-    "note": "Built HTML: @font-face removed; M5 logo swapped to Merz co-branded 260x50 per MERZ-EMAIL-CONVENTIONS.md. O6 -> list 33 Open Cohort, M5 -> list 34 Merz Cohort. Drafts to be created unscheduled.",
+    "note": "Built HTML: @font-face removed; M5 logo swapped to Merz co-branded 260x50 per MERZ-EMAIL-CONVENTIONS.md. O6 -> list 33 Open Cohort, M5 -> list 34 Merz Cohort. Drafts to be created unscheduled. Created 2026-10-21 via a helper session because this session's Brevo connector had lost authorization.",
     "brevoCampaignIds": {
-      "o6": "pending",
-      "m5": "pending"
+      "o6": 191,
+      "m5": 192
     }
   }
 }
