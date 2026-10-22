@@ -32,10 +32,12 @@
   },
   "_pushed": {
     "date": "2026-10-22",
-    "note": "Built HTML: @font-face removed, copy verbatim. DE list 36, EN list 35. Unscheduled drafts via Brevo connector. Brevo API rejects an empty exclusionListIds array; omit the key. List 14 (Paid Users) holds 2 contacts: one blacklisted, one (DE, in list 29) not in 36. One list-36 contact has no VORNAME.",
+    "note": "Built HTML: @font-face removed, copy verbatim. DE list 36, EN list 35. Unscheduled drafts via Brevo connector. Brevo API rejects an empty exclusionListIds array; omit the key. List 14 (Paid Users) holds 2 contacts: one blacklisted, one (DE, in list 29) not in 36. One list-36 contact has no VORNAME. v2 (197/198): compensation line as plain paragraph under the return paragraph (no card, no bold); personal sign-off with closing line, Rosa's photo, 'Rosa und/and Mousa' and roles. 195/196 superseded, delete in Brevo.",
     "brevoCampaignIds": {
       "de": 195,
-      "en": 196
+      "en": 196,
+      "de_v2": 197,
+      "en_v2": 198
     }
   }
 }
