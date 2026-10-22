@@ -1,0 +1,41 @@
+{
+  "_comment": "Only HTML token is the Cooper font URL. Recommended: delete the @font-face block from both HTML files and leave font values empty. Confirm listIds with Maha, fill sender.email.",
+  "font": {
+    "https://REPLACE-WITH-YOUR-FONT-URL/CooperBT-Light.woff2": "",
+    "https://REPLACE-WITH-YOUR-FONT-URL/CooperBT-Light.ttf": ""
+  },
+  "campaign": {
+    "de": {
+      "name": "Service: Sicherheitsupdate Paid DE",
+      "subject": "familymind ist am Wochenende zurück | Ein persönliches Update von uns",
+      "previewText": "Was passiert ist, was es für dich bedeutet und wie wir dich jetzt unterstützen.",
+      "senderName": "Rosa und Mousa von familymind",
+      "listIds": [
+        36
+      ],
+      "scheduledAt": ""
+    },
+    "en": {
+      "name": "Service: security update Paid EN",
+      "subject": "familymind is back on the weekend | A personal word from us",
+      "previewText": "What happened, what it means for you, and how we are supporting you now.",
+      "senderName": "Rosa and Mousa from familymind",
+      "listIds": [
+        35
+      ],
+      "scheduledAt": ""
+    }
+  },
+  "sender": {
+    "email": "rdd@familymind.ai",
+    "replyTo": "rdd@familymind.ai"
+  },
+  "_pushed": {
+    "date": "2026-10-22",
+    "note": "Built HTML: @font-face removed, copy verbatim. DE list 36, EN list 35. Unscheduled drafts via Brevo connector. Brevo API rejects an empty exclusionListIds array; omit the key. List 14 (Paid Users) holds 2 contacts: one blacklisted, one (DE, in list 29) not in 36. One list-36 contact has no VORNAME.",
+    "brevoCampaignIds": {
+      "de": 195,
+      "en": 196
+    }
+  }
+}
