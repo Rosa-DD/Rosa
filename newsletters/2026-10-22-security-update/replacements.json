@@ -1,0 +1,49 @@
+{
+  "_comment": "The only HTML token is the Cooper font URL. Recommended: delete the @font-face block from both HTML files and leave font values empty. Fill listIds per language and sender.email.",
+  "font": {
+    "https://REPLACE-WITH-YOUR-FONT-URL/CooperBT-Light.woff2": "",
+    "https://REPLACE-WITH-YOUR-FONT-URL/CooperBT-Light.ttf": ""
+  },
+  "campaign": {
+    "de": {
+      "name": "Service: Sicherheitsupdate DE",
+      "subject": "familymind ist am Wochenende zurück: ein Update von Rosa und Mousa",
+      "previewText": "Was passiert ist, was es für dich bedeutet und was du jetzt tun kannst.",
+      "senderName": "Rosa und Mousa von familymind",
+      "listIds": [
+        29
+      ],
+      "exclusionListIds": [
+        36,
+        14
+      ],
+      "scheduledAt": ""
+    },
+    "en": {
+      "name": "Service: security update EN",
+      "subject": "familymind is back this weekend: an update from Rosa and Mousa",
+      "previewText": "What happened, what it means for you, and what you can do now.",
+      "senderName": "Rosa and Mousa from familymind",
+      "listIds": [
+        30
+      ],
+      "exclusionListIds": [
+        35,
+        14
+      ],
+      "scheduledAt": ""
+    }
+  },
+  "sender": {
+    "email": "rdd@familymind.ai",
+    "replyTo": "rdd@familymind.ai"
+  },
+  "_pushed": {
+    "date": "2026-10-22",
+    "note": "Built HTML: @font-face removed, copy verbatim. DE list 29 excl 36+14; EN list 30 excl 35+14 (all non-paid users per brief). Unscheduled drafts via Brevo connector.",
+    "brevoCampaignIds": {
+      "de": 193,
+      "en": 194
+    }
+  }
+}
