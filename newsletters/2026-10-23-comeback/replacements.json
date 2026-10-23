@@ -1,0 +1,45 @@
+{
+  "_comment": "Fill the review links. Font: recommended to delete the @font-face block from both HTML files and leave font values empty. Confirm listIds, fill sender.email.",
+  "shared": {
+    "https://REPLACE-WITH-APP-STORE-REVIEW-LINK": "https://apps.apple.com/app/id6740882851?action=write-review",
+    "https://REPLACE-WITH-GOOGLE-PLAY-REVIEW-LINK": "https://play.google.com/store/apps/details?id=ai.familymind"
+  },
+  "font": {
+    "https://REPLACE-WITH-YOUR-FONT-URL/CooperBT-Light.woff2": "",
+    "https://REPLACE-WITH-YOUR-FONT-URL/CooperBT-Light.ttf": ""
+  },
+  "campaign": {
+    "de": {
+      "name": "Service: familymind ist zurück DE",
+      "subject": "familymind ist zurück",
+      "previewText": "Keine 24 Stunden später sind wir zurück. In drei Schritten ist alles wieder da.",
+      "senderName": "Rosa und Mousa von familymind",
+      "listIds": [
+        29
+      ],
+      "scheduledAt": ""
+    },
+    "en": {
+      "name": "Service: familymind is back EN",
+      "subject": "familymind is back",
+      "previewText": "Less than 24 hours later, we're back. Three steps and everything is there again.",
+      "senderName": "Rosa and Mousa from familymind",
+      "listIds": [
+        30
+      ],
+      "scheduledAt": ""
+    }
+  },
+  "sender": {
+    "email": "rdd@familymind.ai",
+    "replyTo": "rdd@familymind.ai"
+  },
+  "_pushed": {
+    "date": "2026-10-23",
+    "note": "Built HTML: @font-face removed, review links filled (App Store write-review deep link for id6740882851, Google Play listing ai.familymind). DE list 29, EN list 30 (free and paid; list 14's only active contact is in 29). Unscheduled drafts via Brevo connector.",
+    "brevoCampaignIds": {
+      "de": 203,
+      "en": 204
+    }
+  }
+}
