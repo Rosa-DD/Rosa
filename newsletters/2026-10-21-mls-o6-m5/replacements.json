@@ -24,7 +24,7 @@
     "m5": {
       "file": "campaign-m5.html",
       "name": "MLS Merz Pilot M5: Nach Check-In 1 (Nordstern)",
-      "subject": "Danke für heute! So geht es bis zum 04.11. weiter",
+      "subject": "Danke für den ersten Check-In! So geht es bis zum 04.11. weiter",
       "previewText": "Deine nächsten Schritte für den ersten Family Sync auf einen Blick.",
       "senderName": "Andrea & Rosaria von familymind",
       "listIds": [
@@ -45,7 +45,7 @@
   },
   "_pushed": {
     "date": "2026-10-21",
-    "note": "Built HTML: @font-face removed; M5 logo swapped to Merz co-branded 260x50 per MERZ-EMAIL-CONVENTIONS.md. O6 -> list 33 Open Cohort, M5 -> list 34 Merz Cohort. Drafts to be created unscheduled. Created 2026-10-21 via a helper session because this session's Brevo connector had lost authorization. v2 (205/206, 2026-10-23): added 'Wichtig vorab' line asking participants to re-create their familymind account in the app; O6 quiz link follows the Brevo edit (familymind.ai/de/mental-load-score). 191/192 superseded, delete in Brevo.",
+    "note": "Built HTML: @font-face removed; M5 logo swapped to Merz co-branded 260x50 per MERZ-EMAIL-CONVENTIONS.md. O6 -> list 33 Open Cohort, M5 -> list 34 Merz Cohort. Drafts to be created unscheduled. Created 2026-10-21 via a helper session because this session's Brevo connector had lost authorization. v2 (205/206, 2026-10-23): added 'Wichtig vorab' line asking participants to re-create their familymind account in the app; O6 quiz link follows the Brevo edit (familymind.ai/de/mental-load-score). 191/192 superseded, delete in Brevo. v3 (2026-10-24, applied in place to 206 via update tool): subject/headline/intro 'Danke für den ersten Check-In', 'Im ersten Check-In hast du...', two further 'heute' references reworded, feedback link switched to the Merz cohort form (…UQjJWUlowVVpPUEk0MDNRVzgyME44MDlBUS4u).",
     "brevoCampaignIds": {
       "o6": 191,
       "m5": 192,

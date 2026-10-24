@@ -11,3 +11,9 @@
 - Campaigns created via the connector cannot be edited or deleted by it; every change is a new draft.
 - Lists 31 (All App Users New) and 32 (Mobile Application Users) are not language-split.
   Lists 29 (DE) and 30 (EN) are subsets of them.
+- Since 2026-10-24 the connector also offers `email_campaign_management_update_email_campaign`:
+  draft and scheduled campaigns can be edited in place (subject, htmlContent, recipients, sender).
+  Prefer updating over creating a new version.
+- Merz cohort (started 16.10., Check-In 1 on 21.10., Check-In 2 on 04.11.) feedback form:
+  https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=0HES51fjqEG9fSFLc8snex38PNg_2j9KiOfholseWm1UQjJWUlowVVpPUEk0MDNRVzgyME44MDlBUS4u
+  Open cohort form ends in …UOFcwTFhBNUZYREdLQkJTRlJDNU9IQzZLMC4u. Do not mix them.
