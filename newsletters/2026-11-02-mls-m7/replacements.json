@@ -21,7 +21,7 @@
   },
   "_pushed": {
     "date": "2026-11-02",
-    "note": "Built HTML: @font-face removed; Merz co-branded logo per convention; quiz link set to familymind.ai/de/mental-load-score (the URL used in O5 and in the Brevo edit of O6). List 34 Merz Cohort. Created unscheduled (9:00 slot passed). v2 (applied in place to 214): cream feedback card before 'Bis Mittwoch!' with the Merz cohort form link.",
+    "note": "Built HTML: @font-face removed; Merz co-branded logo per convention; quiz link set to familymind.ai/de/mental-load-score (the URL used in O5 and in the Brevo edit of O6). List 34 Merz Cohort. Created unscheduled (9:00 slot passed). v2 (applied in place to 214): cream feedback card before 'Bis Mittwoch!' with the Merz cohort form link. v3 (in place on 214): feedback card restyled in brand orange #FFA857 with label, Cooper headline and dark button.",
     "brevoCampaignIds": {
       "m7": 214
     }
