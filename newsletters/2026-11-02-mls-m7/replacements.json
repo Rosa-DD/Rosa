@@ -1,0 +1,29 @@
+{
+  "_comment": "Only HTML token is the Cooper font URL. Recommended: delete the @font-face block from the HTML and leave font values empty. Fill listIds and sender.email.",
+  "font": {
+    "https://REPLACE-WITH-YOUR-FONT-URL/CooperBT-Light.woff2": "",
+    "https://REPLACE-WITH-YOUR-FONT-URL/CooperBT-Light.ttf": ""
+  },
+  "campaign": {
+    "name": "MLS Merz Pilot M7: Vor Check-In 2",
+    "subject": "Am Mittwoch ist Check-In 2: bitte vorher das Quiz machen",
+    "previewText": "Diesmal geht es um die (Fair-)Teilung von Mental Load und Care-Arbeit.",
+    "senderName": "Rosa & Andrea von familymind",
+    "listIds": [
+      34
+    ],
+    "scheduledAt": "2026-11-02T09:00:00+01:00",
+    "expectImgs": 1
+  },
+  "sender": {
+    "email": "rdd@familymind.ai",
+    "replyTo": "rdd@familymind.ai"
+  },
+  "_pushed": {
+    "date": "2026-11-02",
+    "note": "Built HTML: @font-face removed; Merz co-branded logo per convention; quiz link set to familymind.ai/de/mental-load-score (the URL used in O5 and in the Brevo edit of O6). List 34 Merz Cohort. Created unscheduled (9:00 slot passed).",
+    "brevoCampaignIds": {
+      "m7": 214
+    }
+  }
+}
