@@ -1,0 +1,28 @@
+{
+  "_comment": "Only HTML token is the Cooper font URL. Recommended: delete the @font-face block and leave font values empty. Fill listIds and sender.email.",
+  "font": {
+    "https://REPLACE-WITH-YOUR-FONT-URL/CooperBT-Light.woff2": "",
+    "https://REPLACE-WITH-YOUR-FONT-URL/CooperBT-Light.ttf": ""
+  },
+  "campaign": {
+    "name": "MLS Merz Pilot M8: Nach Check-In 2",
+    "subject": "Danke für heute! Eure Aufgaben bis zum 18.11.",
+    "previewText": "Aufgabenpakete, Mindeststandards und eine Woche mit echten Zahlen.",
+    "senderName": "Andrea & Rosaria von familymind",
+    "listIds": [
+      34
+    ],
+    "scheduledAt": "2026-11-04T16:00:00+01:00"
+  },
+  "sender": {
+    "email": "rdd@familymind.ai",
+    "replyTo": "rdd@familymind.ai"
+  },
+  "_pushed": {
+    "date": "2026-11-04",
+    "note": "Built HTML: @font-face removed; Merz co-branded logo; feedback link switched from the open-cohort form to the Merz cohort form. List 34. Created unscheduled.",
+    "brevoCampaignIds": {
+      "m8": 215
+    }
+  }
+}
