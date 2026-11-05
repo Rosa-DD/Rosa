@@ -1,0 +1,26 @@
+{
+  "_comment": "Only HTML token is the Cooper font URL. Recommended: delete the @font-face block and leave font values empty. Fill sender.email; confirm list 33.",
+  "font": {
+    "https://REPLACE-WITH-YOUR-FONT-URL/CooperBT-Light.woff2": "",
+    "https://REPLACE-WITH-YOUR-FONT-URL/CooperBT-Light.ttf": ""
+  },
+  "campaign": {
+    "name": "MLS Offene Kohorte O8: Nach Check-In 2",
+    "subject": "Danke für Check-In 2! Eure Aufgaben bis zum 13.11.",
+    "previewText": "Aufgabenpakete, Mindeststandards und eine Woche mit echten Zahlen.",
+    "senderName": "Andrea & Rosaria von familymind",
+    "listIds": [],
+    "scheduledAt": ""
+  },
+  "sender": {
+    "email": "rdd@familymind.ai",
+    "replyTo": "rdd@familymind.ai"
+  },
+  "_pushed": {
+    "date": "2026-11-05",
+    "note": "Built HTML: @font-face removed; 'heute' wording replaced (subject/headline 'Danke für Check-In 2', intro 'Im zweiten Check-In ...'); recording card with the 30.10. SharePoint recording; orange feedback card with open-cohort form. Recipients: Check-In 2 attendees only (new list), not all of list 33. Draft 220 created without recipients; the connector cannot create lists, so the Check-In 2 attendee list is created by hand in Brevo and attached there.",
+    "brevoCampaignIds": {
+      "o8": 220
+    }
+  }
+}
