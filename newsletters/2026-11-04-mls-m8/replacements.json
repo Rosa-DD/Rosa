@@ -6,7 +6,7 @@
   },
   "campaign": {
     "name": "MLS Merz Pilot M8: Nach Check-In 2",
-    "subject": "Danke für heute! Eure Aufgaben bis zum 18.11.",
+    "subject": "Danke für Check-In 2! Eure Aufgaben bis zum 18.11.",
     "previewText": "Aufgabenpakete, Mindeststandards und eine Woche mit echten Zahlen.",
     "senderName": "Andrea & Rosaria von familymind",
     "listIds": [
@@ -20,7 +20,7 @@
   },
   "_pushed": {
     "date": "2026-11-04",
-    "note": "Built HTML: @font-face removed; Merz co-branded logo; feedback link switched from the open-cohort form to the Merz cohort form. List 34. Created unscheduled. v2 (in place on 215): 'Zum Nachschauen' card with Check-In 2 recording link (SharePoint, Andrea) and note that the slides are attached as PDF; Rosa attaches the PDF in Brevo herself. v3 (in place on 215): feedback card restyled in brand orange #FFA857 like M7, Merz form link confirmed by Rosa. v4 (in place on 215): recording link removed, it belonged to the open cohort's 30.10. session; card now 'Zum Nachlesen' with the slides-PDF note only. v5 (in place on 215, 2026-11-06): 'So unterstützt dich familymind' card replaced with Andrea's four-part text (Vereinbarungen festhalten, Spielregeln, Wochen-Tracker, Wichtig); the separate 'Noch ein Gedanke' paragraph removed as it duplicated the new 'Wichtig' line.",
+    "note": "Built HTML: @font-face removed; Merz co-branded logo; feedback link switched from the open-cohort form to the Merz cohort form. List 34. Created unscheduled. v2 (in place on 215): 'Zum Nachschauen' card with Check-In 2 recording link (SharePoint, Andrea) and note that the slides are attached as PDF; Rosa attaches the PDF in Brevo herself. v3 (in place on 215): feedback card restyled in brand orange #FFA857 like M7, Merz form link confirmed by Rosa. v4 (in place on 215): recording link removed, it belonged to the open cohort's 30.10. session; card now 'Zum Nachlesen' with the slides-PDF note only. v5 (in place on 215, 2026-11-06): 'So unterstützt dich familymind' card replaced with Andrea's four-part text (Vereinbarungen festhalten, Spielregeln, Wochen-Tracker, Wichtig); the separate 'Noch ein Gedanke' paragraph removed as it duplicated the new 'Wichtig' line. v6 (in place on 215): subject/title/headline 'Danke für Check-In 2', intro 'Im zweiten Check-In ist ...'; no 'heute' left.",
     "brevoCampaignIds": {
       "m8": 215
     }
