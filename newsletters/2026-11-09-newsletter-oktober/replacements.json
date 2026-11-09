@@ -4,7 +4,7 @@
     "https://REPLACE-WITH-BREVO-MEDIA-URL/mut-maker-award.jpg": "https://eu-media.posthog.com/uploaded_media/01a1bf16-6ebf-0000-57f4-1d12b00d5290",
     "https://REPLACE-WITH-BREVO-MEDIA-URL/industrial-agents-hackathon.jpg": "https://eu-media.posthog.com/uploaded_media/01a1bf15-12fc-0000-0279-cca059728a98",
     "https://REPLACE-WITH-BREVO-MEDIA-URL/rike-engel.jpg": "https://eu-media.posthog.com/uploaded_media/01a1bf21-61e4-0000-8273-8ff666d992ed",
-    "https://REPLACE-WITH-BREVO-MEDIA-URL/luise-hecker.jpg": "REMOVED-CELL (no photo available; add when Rosa supplies one)",
+    "https://REPLACE-WITH-BREVO-MEDIA-URL/luise-hecker.jpg": "https://eu-media.posthog.com/uploaded_media/01a1bf2d-2b2a-0000-96a8-58f7331b24a6",
     "https://REPLACE-WITH-BREVO-MEDIA-URL/mma-speech-thumbnail.jpg": "https://eu-media.posthog.com/uploaded_media/01a1bf12-b52f-0000-09f3-90caec26f9a7",
     "https://REPLACE-WITH-BREVO-MEDIA-URL/blog-mut-meets-technologie.jpg": "https://img.mailinblue.com/7762243/images/content_library/original/6a859786e5f747179058b5ec.jpeg"
   },
@@ -73,7 +73,7 @@
       "Video card: square crop of the Mut Maker Award backdrop photo (media/mma-speech-thumbnail.jpg, 456x456) hosted on PostHog media, applied 09.11. Blog card uses the Mut Maker Award logo from Brevo media.",
       "Mut Maker photo: 16:9 crop of the finalists group photo (media/mut-maker-award.jpg) hosted on PostHog media, 504x284.",
       "Hackathon photo: 16:9 crop of the Synera challenge winners photo Rosa sent from LinkedIn (media/industrial-agents-hackathon.jpg) hosted on PostHog media, 504x284.",
-      "Rike Engel photo (media/rike-engel.jpg, 152x152 crop of the portrait Rosa sent) hosted on PostHog media, cell restored in E5. Luise Hecker photo cell still removed until a photo arrives."
+      "Speaker photos: Rike Engel (media/rike-engel.jpg) and Dr. Luise Hecker (media/luise-hecker.jpg), 152x152 crops of the portraits Rosa sent, hosted on PostHog media, cells restored in E5 and E6."
     ]
   }
 }
