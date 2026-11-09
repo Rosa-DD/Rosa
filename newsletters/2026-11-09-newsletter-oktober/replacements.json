@@ -1,11 +1,11 @@
 {
   "_comment": "Fill every image URL. The two event photos (mut-maker-award, industrial-agents-hackathon) are optional: set the value to \"DELETE\" and the script removes that image row. Font: recommended to delete the @font-face block from both HTML files and leave font values empty. Confirm listIds, fill sender.email.",
   "shared": {
-    "https://REPLACE-WITH-BREVO-MEDIA-URL/mut-maker-award.jpg": "https://uploads.postiz.com/pc8DGYtmcvqsYVtty2UX.jpg",
-    "https://REPLACE-WITH-BREVO-MEDIA-URL/industrial-agents-hackathon.jpg": "DELETE",
+    "https://REPLACE-WITH-BREVO-MEDIA-URL/mut-maker-award.jpg": "https://eu-media.posthog.com/uploaded_media/01a1bf16-6ebf-0000-57f4-1d12b00d5290",
+    "https://REPLACE-WITH-BREVO-MEDIA-URL/industrial-agents-hackathon.jpg": "https://eu-media.posthog.com/uploaded_media/01a1bf15-12fc-0000-0279-cca059728a98",
     "https://REPLACE-WITH-BREVO-MEDIA-URL/rike-engel.jpg": "REMOVED-CELL (no photo available; add when Rosa supplies one)",
     "https://REPLACE-WITH-BREVO-MEDIA-URL/luise-hecker.jpg": "REMOVED-CELL (no photo available; add when Rosa supplies one)",
-    "https://REPLACE-WITH-BREVO-MEDIA-URL/mma-speech-thumbnail.jpg": "https://img.mailinblue.com/7762243/images/content_library/original/6a8589a0e5f747179058b1cc.jpeg",
+    "https://REPLACE-WITH-BREVO-MEDIA-URL/mma-speech-thumbnail.jpg": "https://eu-media.posthog.com/uploaded_media/01a1bf12-b52f-0000-09f3-90caec26f9a7",
     "https://REPLACE-WITH-BREVO-MEDIA-URL/blog-mut-meets-technologie.jpg": "https://img.mailinblue.com/7762243/images/content_library/original/6a859786e5f747179058b5ec.jpeg"
   },
   "de": {
@@ -69,11 +69,11 @@
     "status": "draft, not scheduled",
     "notes": [
       "@font-face block removed; headings fall back to Georgia.",
-      "Mut Maker photo: Mut-Maker-Award-2026_@andreaheinsohn-13.jpg from the Postiz media library (1623x1080, 3:2), shown 504x336 instead of 504x284 to keep its aspect ratio.",
-      "Hackathon photo row deleted (none supplied).",
       "Speaker photo cells for Rike Engel and Dr. Luise Hecker removed: no photos in Brevo, Postiz, Canva or Notion. Text spans the full card.",
-      "Video card uses the Rosa portrait, blog card uses the Mut Maker Award logo, both already in Brevo media. YouTube thumbnail and blog og:image could not be fetched from this environment.",
-      "exclusionListIds omitted (Brevo rejects an empty array)."
+      "exclusionListIds omitted (Brevo rejects an empty array).",
+      "Video card: square crop of the Mut Maker Award backdrop photo (media/mma-speech-thumbnail.jpg, 456x456) hosted on PostHog media, applied 09.11. Blog card uses the Mut Maker Award logo from Brevo media.",
+      "Mut Maker photo: 16:9 crop of the finalists group photo (media/mut-maker-award.jpg) hosted on PostHog media, 504x284.",
+      "Hackathon photo: 16:9 crop of the Synera challenge winners photo Rosa sent from LinkedIn (media/industrial-agents-hackathon.jpg) hosted on PostHog media, 504x284."
     ]
   }
 }
