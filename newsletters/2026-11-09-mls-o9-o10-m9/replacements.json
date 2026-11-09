@@ -1,0 +1,109 @@
+{
+  "_comment": "Fill the Merz logo URL (M9 only) and the Zoom link (O10 only). Font: recommended to delete the @font-face block from all three HTML files and leave font values empty. Fill sender.email.",
+  "m9": {
+    "https://REPLACE-WITH-BREVO-MEDIA-URL/merz-logo.png": "not used: logo row replaced by the co-branded familymind x Merz image per MERZ-EMAIL-CONVENTIONS (https://img.mailinblue.com/7762243/images/content_library/original/6ac629ffc9a252fc235a28f6.jpeg, 260x50)"
+  },
+  "o10": {
+    "https://REPLACE-WITH-ZOOM-LINK": "https://teams.microsoft.com/meet/347029705331118?p=gPVNBXwFQFFog2W2N3"
+  },
+  "font": {
+    "https://REPLACE-WITH-YOUR-FONT-URL/CooperBT-Light.woff2": "",
+    "https://REPLACE-WITH-YOUR-FONT-URL/CooperBT-Light.ttf": ""
+  },
+  "campaigns": {
+    "o9": {
+      "file": "campaign-o9.html",
+      "name": "MLS Offene Kohorte O9: Wochen-Tracker",
+      "subject": "Kleine Erinnerung: Startet euren Wochen-Tracker",
+      "previewText": "Wer heute startet, hat zum Check-In am Freitag fast eine volle Woche beisammen.",
+      "senderName": "Rosaria von familymind",
+      "listIds": [
+        33
+      ],
+      "scheduledAt": "",
+      "expectImgs": 2,
+      "mustInclude": [
+        "13. November"
+      ],
+      "mustNotInclude": [
+        "Merz",
+        "18. November"
+      ]
+    },
+    "o10": {
+      "file": "campaign-o10.html",
+      "name": "MLS Offene Kohorte O10: Vor Check-In 3",
+      "subject": "Am Freitag ist Check-In 3: Was hat eure Woche gezeigt?",
+      "previewText": "Diesmal geht es um Muster, Rituale und sichere Experimente.",
+      "senderName": "Andrea & Rosaria von familymind",
+      "listIds": [
+        33
+      ],
+      "scheduledAt": "",
+      "expectImgs": 1,
+      "mustInclude": [
+        "13. November, 12:00 bis 13:30 Uhr"
+      ],
+      "mustNotInclude": [
+        "Merz",
+        "11:00 bis 12:30"
+      ]
+    },
+    "m9": {
+      "file": "campaign-m9.html",
+      "name": "MLS Merz Pilot M9: Wochen-Tracker",
+      "subject": "Kleine Erinnerung: Startet euren Wochen-Tracker",
+      "previewText": "Wer heute startet, hat zum Check-In am 18. November eine volle Woche beisammen.",
+      "senderName": "Rosaria von familymind",
+      "listIds": [
+        34
+      ],
+      "scheduledAt": "",
+      "expectImgs": 3,
+      "mustInclude": [
+        "18. November",
+        "Merz Lifecare",
+        "alt=\"Merz\""
+      ],
+      "mustNotInclude": [
+        "13. November",
+        "Freitag"
+      ]
+    }
+  },
+  "sender": {
+    "email": "rdd@familymind.ai",
+    "replyTo": "rdd@familymind.ai"
+  },
+  "_pushed": {
+    "date": "2026-11-09",
+    "status": "all three unscheduled drafts, nothing sent or scheduled",
+    "o9": {
+      "campaignId": 224,
+      "file": "final-campaign-o9.html",
+      "listIds": [
+        33
+      ]
+    },
+    "o10": {
+      "campaignId": 226,
+      "file": "final-campaign-o10.html",
+      "listIds": [
+        33
+      ]
+    },
+    "m9": {
+      "campaignId": 225,
+      "file": "final-campaign-m9.html",
+      "listIds": [
+        34
+      ]
+    },
+    "notes": [
+      "@font-face block removed from all three; headings fall back to Georgia.",
+      "O10: Check-In 3 link taken from the Outlook event \"The Mental Load Shift · Check-In 3\" (Fri 13.11., 12:00-13:30, organiser rdd@). It is a Teams link, so the label \"Zoom-Link\" became \"Teams-Link\".",
+      "M9: two-logo row replaced by the single co-branded logo with 36px top padding, as in M6-M8.",
+      "O10/M9 not scheduled for Wed 11.11. 9:00 on purpose (standing rule: drafts only); schedule in Brevo once approved."
+    ]
+  }
+}
