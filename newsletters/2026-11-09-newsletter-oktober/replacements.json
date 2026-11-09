@@ -1,0 +1,79 @@
+{
+  "_comment": "Fill every image URL. The two event photos (mut-maker-award, industrial-agents-hackathon) are optional: set the value to \"DELETE\" and the script removes that image row. Font: recommended to delete the @font-face block from both HTML files and leave font values empty. Confirm listIds, fill sender.email.",
+  "shared": {
+    "https://REPLACE-WITH-BREVO-MEDIA-URL/mut-maker-award.jpg": "https://uploads.postiz.com/pc8DGYtmcvqsYVtty2UX.jpg",
+    "https://REPLACE-WITH-BREVO-MEDIA-URL/industrial-agents-hackathon.jpg": "DELETE",
+    "https://REPLACE-WITH-BREVO-MEDIA-URL/rike-engel.jpg": "REMOVED-CELL (no photo available; add when Rosa supplies one)",
+    "https://REPLACE-WITH-BREVO-MEDIA-URL/luise-hecker.jpg": "REMOVED-CELL (no photo available; add when Rosa supplies one)",
+    "https://REPLACE-WITH-BREVO-MEDIA-URL/mma-speech-thumbnail.jpg": "https://img.mailinblue.com/7762243/images/content_library/original/6a8589a0e5f747179058b1cc.jpeg",
+    "https://REPLACE-WITH-BREVO-MEDIA-URL/blog-mut-meets-technologie.jpg": "https://img.mailinblue.com/7762243/images/content_library/original/6a859786e5f747179058b5ec.jpeg"
+  },
+  "de": {
+    "https://REPLACE-WITH-BREVO-MEDIA-URL/webapp-skills-de.png": "https://eu.posthog.com/uploaded_media/01a13129-a411-0000-6d19-1bf090281611"
+  },
+  "en": {
+    "https://REPLACE-WITH-BREVO-MEDIA-URL/webapp-skills.png": "https://eu.posthog.com/uploaded_media/01a1312b-7a93-0000-167c-629bf1bf0d45"
+  },
+  "font": {
+    "https://REPLACE-WITH-YOUR-FONT-URL/CooperBT-Light.woff2": "",
+    "https://REPLACE-WITH-YOUR-FONT-URL/CooperBT-Light.ttf": ""
+  },
+  "campaign": {
+    "de": {
+      "name": "Newsletter Oktober DE: Rückblick",
+      "subject": "Unser Oktober, euer November 🍂",
+      "previewText": "Ein Award Abend, ein Hackathon Sieg, zwei Kohorten und was als Nächstes kommt",
+      "listIds": [
+        29,
+        7
+      ],
+      "scheduledAt": ""
+    },
+    "en": {
+      "name": "Newsletter October EN: recap",
+      "subject": "Our October, your November 🍂",
+      "previewText": "An award night, a hackathon win, two cohorts and what comes next",
+      "listIds": [
+        30,
+        8,
+        15
+      ],
+      "scheduledAt": ""
+    }
+  },
+  "sender": {
+    "name": "Rosa von familymind",
+    "nameEn": "Rosa from familymind",
+    "email": "rdd@familymind.ai",
+    "replyTo": "rdd@familymind.ai"
+  },
+  "_pushed": {
+    "date": "2026-11-09",
+    "de": {
+      "campaignId": 221,
+      "file": "final-campaign-de.html",
+      "listIds": [
+        29,
+        7
+      ]
+    },
+    "en": {
+      "campaignId": 223,
+      "file": "final-campaign-en.html",
+      "listIds": [
+        30,
+        8,
+        15
+      ]
+    },
+    "status": "draft, not scheduled",
+    "notes": [
+      "@font-face block removed; headings fall back to Georgia.",
+      "Mut Maker photo: Mut-Maker-Award-2026_@andreaheinsohn-13.jpg from the Postiz media library (1623x1080, 3:2), shown 504x336 instead of 504x284 to keep its aspect ratio.",
+      "Hackathon photo row deleted (none supplied).",
+      "Speaker photo cells for Rike Engel and Dr. Luise Hecker removed: no photos in Brevo, Postiz, Canva or Notion. Text spans the full card.",
+      "Video card uses the Rosa portrait, blog card uses the Mut Maker Award logo, both already in Brevo media. YouTube thumbnail and blog og:image could not be fetched from this environment.",
+      "exclusionListIds omitted (Brevo rejects an empty array)."
+    ]
+  }
+}
