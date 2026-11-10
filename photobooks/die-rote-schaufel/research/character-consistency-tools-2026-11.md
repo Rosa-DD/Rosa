@@ -49,9 +49,9 @@ There is no single best tool. The strongest setup combines three things:
 3. If the winner is FLUX.2, or consistency is still drifting, train one LoRA per child from 15–30 approved images and produce all 16 scenes with it.
 4. Shoot real background plates (playground, sandbox, shovel) in parallel. They help with every tool.
 
-## 6. Open decision for Rosa & Mousa
+## 6. Open decision
 
-- **What does "based on real photographs" mean for the product?** (a) AI children in **real photographed places**: recommended for this prototype. (b) Later product idea: books based on a family's *own* photos. Using real children's photos as AI input is a separate product with consent, privacy and child-safety requirements, and it needs its own decision. The current master doc explicitly says *no photos of our own children*.
+- **What does "based on real photographs" mean here?** (a) AI children in **real photographed places**: recommended for this book. (b) Using photos of my own children as AI input: the master doc explicitly rules this out (*no photos of our own children*). It would raise privacy and child-safety questions and needs its own decision.
 
 ## Sources
 

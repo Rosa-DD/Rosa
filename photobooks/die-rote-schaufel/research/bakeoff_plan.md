@@ -28,7 +28,7 @@ Candid smartphone snapshot taken by a parent, slightly imperfect off-centre fram
 
 Generate 2 attempts per scene per tool, then keep the better one. Save the files as `assets/bakeoff/<tool>/<T#>_v<n>.png`.
 
-## Scoring (1–5 each, scored blind, Rosa and Mousa separately)
+## Scoring (1–5 each, scored blind, ideally a few days after generating)
 | Criterion | Weight |
 |---|---|
 | Same Ben across T1/T2/T3/T5 (face, hair, age) | ×3 |
