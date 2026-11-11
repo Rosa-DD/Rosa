@@ -103,7 +103,8 @@
       "@font-face block removed from all three; headings fall back to Georgia.",
       "M9: two-logo row replaced by the single co-branded logo with 36px top padding, as in M6-M8.",
       "O10/M9 not scheduled for Wed 11.11. 9:00 on purpose (standing rule: drafts only); schedule in Brevo once approved.",
-      "O10: Check-In 3 Teams link replaced on 11.11. with the one Rosa gave (meet/3884088533040484). Label stays \"Teams-Link\"."
+      "O10: Check-In 3 Teams link replaced on 11.11. with the one Rosa gave (meet/3884088533040484). Label stays \"Teams-Link\".",
+      "11.11.: M9 logo swapped for a transparent PNG of the same co-branded artwork (media/familymind-merz-logo-transparent.png, hosted on PostHog media). The Brevo JPEG has an opaque white background that shows as a white box when a mail client drops the white content card."
     ]
   }
 }
