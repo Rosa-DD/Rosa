@@ -1,0 +1,41 @@
+{
+  "_comment": "Fill the recording link. The lime [placeholder] copy must be replaced with Modul 3 text in campaign-o11.html before pushing; the script refuses while any remain. Font: recommended to delete the @font-face block and leave font values empty. Fill sender.email.",
+  "o11": {
+    "https://REPLACE-WITH-RECORDING-LINK": ""
+  },
+  "font": {
+    "https://REPLACE-WITH-YOUR-FONT-URL/CooperBT-Light.woff2": "",
+    "https://REPLACE-WITH-YOUR-FONT-URL/CooperBT-Light.ttf": ""
+  },
+  "campaign": {
+    "name": "MLS Offene Kohorte O11: Nach Check-In 3",
+    "subject": "Danke für heute! Euer Experiment bis zum 11.12.",
+    "previewText": "Was eure Woche gezeigt hat und welches Experiment ihr jetzt ausprobiert.",
+    "senderName": "Andrea & Rosaria von familymind",
+    "listIds": [
+      33
+    ],
+    "scheduledAt": ""
+  },
+  "sender": {
+    "email": "rdd@familymind.ai",
+    "replyTo": "rdd@familymind.ai"
+  },
+  "_pushed": {
+    "date": "2026-11-13",
+    "file": "final-campaign-o11.html",
+    "listIds": [
+      33
+    ],
+    "status": "unscheduled draft, campaign ID see below, NOT ready to send",
+    "open": [
+      "Recording link for Check-In 3 still missing: the button points to the REPLACE-WITH-RECORDING-LINK token.",
+      "The seven lime placeholders were filled by Claude from the Notion meeting note of Check-In 3 (13.11.); Rosaria and Andrea must approve or rewrite that text before sending."
+    ],
+    "notes": [
+      "@font-face block removed; headings fall back to Georgia.",
+      "Feedback button links to the open-cohort Microsoft Forms questionnaire (…UOFcwTFhBNUZYREdLQkJTRlJDNU9IQzZLMC4u), not the Merz one."
+    ],
+    "campaignId": 227
+  }
+}
