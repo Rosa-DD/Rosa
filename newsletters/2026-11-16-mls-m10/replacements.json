@@ -1,0 +1,40 @@
+{
+  "_comment": "Fill the Merz logo URL (reuse from M6/M7/M9) and the Check-In 3 Teams link. Font: recommended to delete the @font-face block and leave font values empty. Fill sender.email.",
+  "m10": {
+    "https://REPLACE-WITH-BREVO-MEDIA-URL/merz-logo.png": "not used: single co-branded transparent logo per MERZ-EMAIL-CONVENTIONS (https://eu-media.posthog.com/uploaded_media/01a1ca39-c2ec-0000-1434-17bc134e3555)",
+    "https://REPLACE-WITH-TEAMS-LINK": "https://teams.microsoft.com/meet/398693808274936?p=iozMer0OLYNpE1HLwd"
+  },
+  "font": {
+    "https://REPLACE-WITH-YOUR-FONT-URL/CooperBT-Light.woff2": "",
+    "https://REPLACE-WITH-YOUR-FONT-URL/CooperBT-Light.ttf": ""
+  },
+  "campaign": {
+    "name": "MLS Merz Pilot M10: Vor Check-In 3",
+    "subject": "Am Mittwoch ist Check-In 3: Was hat eure Woche gezeigt?",
+    "previewText": "Diesmal geht es um Muster, Rituale und sichere Experimente.",
+    "senderName": "Rosaria & Andrea von familymind",
+    "listIds": [
+      34
+    ],
+    "scheduledAt": ""
+  },
+  "sender": {
+    "email": "rdd@familymind.ai",
+    "replyTo": "rdd@familymind.ai"
+  },
+  "_pushed": {
+    "date": "2026-11-16",
+    "campaignId": 228,
+    "file": "final-campaign-m10.html",
+    "listIds": [
+      34
+    ],
+    "status": "unscheduled draft, nothing sent",
+    "notes": [
+      "@font-face block removed; headings fall back to Georgia.",
+      "Logo row replaced by the single co-branded transparent familymind x Merz PNG per MERZ-EMAIL-CONVENTIONS.",
+      "Check-In 3 Teams link (meet/398693808274936) supplied by Rosa on 16.11., used inline and on the button.",
+      "Intro says \"übermorgen\": correct for a send on Mon 16.11.; change to \"morgen\" if it goes out on Tue 17.11."
+    ]
+  }
+}
