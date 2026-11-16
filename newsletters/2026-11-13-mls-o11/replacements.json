@@ -1,7 +1,8 @@
 {
   "_comment": "Fill the recording link. The lime [placeholder] copy must be replaced with Modul 3 text in campaign-o11.html before pushing; the script refuses while any remain. Font: recommended to delete the @font-face block and leave font values empty. Fill sender.email.",
   "o11": {
-    "https://REPLACE-WITH-RECORDING-LINK": ""
+    "https://REPLACE-WITH-RECORDING-LINK": "https://partnerhoch3-my.sharepoint.com/:v:/g/personal/andrea_boeckle_workfuturists_com/IQBIxtUQml9dR4nHpBbGXbZ7AWS_2JV6MQZsOKq_TrveB5E?e=CeHEv2",
+    "subject": "Danke für den letzten Check-In! Euer Experiment bis zum 11.12."
   },
   "font": {
     "https://REPLACE-WITH-YOUR-FONT-URL/CooperBT-Light.woff2": "",
@@ -36,6 +37,11 @@
       "@font-face block removed; headings fall back to Georgia.",
       "Feedback button links to the open-cohort Microsoft Forms questionnaire (…UOFcwTFhBNUZYREdLQkJTRlJDNU9IQzZLMC4u), not the Merz one."
     ],
-    "campaignId": 227
+    "campaignId": 227,
+    "updates": [
+      "2026-11-16: outage paragraph after the greeting (Microsoft/Teams outage + sickness; Check-In 3 repeated Fri 20.11., 12:00-13:30; Teams invite from Andrea).",
+      "2026-11-16: \"heute\" wording changed to \"der letzte Check-In\" in subject, title, hero and outage paragraph, since the mail goes out after the session day.",
+      "2026-11-16: recording link set (SharePoint video shared by Andrea; Outlook referrer parameters dropped, share token kept)."
+    ]
   }
 }
