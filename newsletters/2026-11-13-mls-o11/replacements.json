@@ -41,7 +41,8 @@
     "updates": [
       "2026-11-16: outage paragraph after the greeting (Microsoft/Teams outage + sickness; Check-In 3 repeated Fri 20.11., 12:00-13:30; Teams invite from Andrea).",
       "2026-11-16: \"heute\" wording changed to \"der letzte Check-In\" in subject, title, hero and outage paragraph, since the mail goes out after the session day.",
-      "2026-11-16: recording link set (SharePoint video shared by Andrea; Outlook referrer parameters dropped, share token kept)."
+      "2026-11-16: recording link set (SharePoint video shared by Andrea; Outlook referrer parameters dropped, share token kept).",
+      "2026-11-16: \"Eure Unterlagen\" card added after the three tasks: Google-Doc button for the worksheet \"Meine Immunity to Change\" (make your own copy, do not edit the shared doc); second document goes as the Brevo attachment. Task 1 sentence changed from \"bekommt ihr per Mail\" to \"findet ihr weiter unten in dieser E-Mail\". Worksheet source kept in docs/."
     ]
   }
 }
