@@ -1,0 +1,40 @@
+{
+  "_comment": "Fill Merz logo URL (reuse from M9/M10), recording link, and attachmentUrl (public URL of the Check-In 3 slides PDF). Replace lime [placeholder] copy in campaign-m11.html with Modul 3 text first. Delete the @font-face block. Fill sender.email.",
+  "m11": {
+    "https://REPLACE-WITH-BREVO-MEDIA-URL/merz-logo.png": "(logo row replaced by co-branded transparent PNG https://eu-media.posthog.com/uploaded_media/01a1ca39-c2ec-0000-1434-17bc134e3555 per MERZ-EMAIL-CONVENTIONS)",
+    "https://REPLACE-WITH-RECORDING-LINK": ""
+  },
+  "font": {
+    "https://REPLACE-WITH-YOUR-FONT-URL/CooperBT-Light.woff2": "",
+    "https://REPLACE-WITH-YOUR-FONT-URL/CooperBT-Light.ttf": ""
+  },
+  "campaign": {
+    "name": "MLS Merz Pilot M11: Nach Check-In 3",
+    "subject": "Danke für gestern! Eure Experimente bis März",
+    "previewText": "Was eure Woche gezeigt hat und welche Experimente ihr jetzt ausprobiert.",
+    "senderName": "Andrea & Rosaria von familymind",
+    "listIds": [
+      34
+    ],
+    "scheduledAt": "",
+    "attachmentUrl": ""
+  },
+  "sender": {
+    "email": "rdd@familymind.ai",
+    "replyTo": "rdd@familymind.ai"
+  },
+  "_pushed": {
+    "status": "NOT pushed yet: Brevo connector needs re-authorization (refused on 2026-11-19).",
+    "file": "final-campaign-m11.html",
+    "listIds": [
+      34
+    ],
+    "notes": [
+      "@font-face block removed; headings fall back to Georgia.",
+      "Logo row replaced by the single co-branded transparent familymind x Merz PNG.",
+      "Feedback button switched from the open-cohort form to the Merz cohort form (…UQjJWUlowVVpPUEk0MDNRVzgyME44MDlBUS4u), as in M8.",
+      "Modul 3 placeholders drafted by Claude from the open-cohort Check-In 3 meeting note (13.11.), adapted to the Merz dates (experiments until 3. März, Check-In 4 on 3. März); no notes or transcript exist for the Merz session of 18.11. Rosa to approve.",
+      "Recording link still a placeholder; slides PDF to be attached by Rosa in Brevo (attachmentUrl left empty)."
+    ]
+  }
+}
